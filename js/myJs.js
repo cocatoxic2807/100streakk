@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Vì tớ thích cậu mất rồi",
   text10: "tui biết mà ^^ Yêu cậu 300.000",
   text11:
-    "Ựa hnay là chuỗi 100, mong bà luôn cười ý là chúc hapy hapy hapy đồ á :)) gì nữa ta hnay đi học chắc cũng chán như bth ha... tui sẽ hiểu bà hơn yên tâm trai trán nam nhi nói đc làm đc:)) này là làm kỷ niệm 100 ngày chuỗi á mà như giải bày tâm sự zay... như chuỗi v tui mong muốn tui với bà tiếp tục",
+    "Ựa hnay là chuỗi 100, mong bà luôn cười ý là chúc hapy hapy hapy đồ á :)) gì nữa ta hnay đi học chắc cũng chán như bth ha... này là làm kỷ niệm 100 ngày chuỗi á mà như giải bày tâm sự zay... như chuỗi v tui mong muốn tui với bà tiếp tục nhăm nhăm phải cho tui cơ hội chuộc lỗi chứ... nên là tui vui vì bà còn cần tui và cảm ơn vì đã ở lại... streak 100 còn tiếp á bấm tiếp đi cảm ơn rất nhiềuuuuu",
   text12: "euban3000",
 };
 
