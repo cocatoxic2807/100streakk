@@ -7,7 +7,7 @@ const textConfig = {
   text6: "Tất Nhiên Là Có rùiii<3",
   text7: "yêu bạn,bann có yêu tui hongg",
   text8: "Gửi cho tớ <3",
-  text9: "có sao không, hỏi thừa",
+  text9: "có sao không, hỏi thừa UwU",
   text10: "tui biết mà ^^ Yêu cậu 300.000",
   text11:
     "Ựa hnay là chuỗi 100, mong bà luôn cười ý là chúc hapy hapy hapy đồ á :)) gì nữa ta hnay đi học chắc cũng chán như bth ha... này là làm kỷ niệm 100 ngày chuỗi á mà như giải bày tâm sự zay... như chuỗi v tui mong muốn tui với bà tiếp tục nhăm nhăm phải cho tui cơ hội chuộc lỗi chứ... nên là tui vui vì bà còn cần tui và cảm ơn vì đã ở lại... streak 100 còn tiếp á bấm tiếp đi cảm ơn rất nhiềuuuuu",
